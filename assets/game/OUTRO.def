@@ -1,0 +1,30 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "You defeated all the delinquents and returned the DVD on time, as expected of superduper you!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "And not only that, through the purifying power of punching their teeth out, you have corrupted the delinquents with goodness, so they are all honor students as well now!"
+
+[Image 1]
+anim = 3
+
+[Text 1]
+Speaker = " "
+Text = "Yokohama's education system is saved! Thanks for playing!"
+
+[Title]

@@ -1,0 +1,40 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "You are a Japanese high school student blessed with Superduper-syndrome, which makes you superduper powerful, the most powerful man in Yokohama!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "Of course, you are also an honor student, but delinquents around Japan are trying to get you and your superduper muscles to join them."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Their next plan is to corrupt you, is to prevent you from returning your rental DVD on time!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Will you be able to keep your goodness? Or will you fail to return the DVD and use your superduperpowers for superduperevil?"
+
+
+[Game]
